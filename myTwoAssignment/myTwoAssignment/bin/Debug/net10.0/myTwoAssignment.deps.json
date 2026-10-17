@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "myTwoAssignment/1.0.0": {
+        "runtime": {
+          "myTwoAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "myTwoAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

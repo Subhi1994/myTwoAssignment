@@ -1,0 +1,15 @@
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\bin\Debug\net10.0\myTwoAssignment.exe
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\bin\Debug\net10.0\myTwoAssignment.deps.json
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\bin\Debug\net10.0\myTwoAssignment.runtimeconfig.json
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\bin\Debug\net10.0\myTwoAssignment.dll
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\bin\Debug\net10.0\myTwoAssignment.pdb
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\myTwoAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\myTwoAssignment.AssemblyInfoInputs.cache
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\myTwoAssignment.AssemblyInfo.cs
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\myTwoAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\myTwoAssignment.dll
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\refint\myTwoAssignment.dll
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\myTwoAssignment.pdb
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\myTwoAssignment.genruntimeconfig.cache
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\ref\myTwoAssignment.dll
+C:\Users\Soubhi\source\repos\myTwoAssignment\myTwoAssignment\obj\Debug\net10.0\myTwoAss.AC6B94D1.Up2Date
